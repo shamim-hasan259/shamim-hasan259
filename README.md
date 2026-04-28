@@ -6,7 +6,8 @@ with a focus on clean, efficient code and user-friendly experiences.
 </h3>
 
 <p align="center">
-📍 Rangpur, Bangladesh &nbsp; | &nbsp; 📧 your@email.com
+📍 Rangpur, Bangladesh &nbsp; | &nbsp; mdshamimhasan791@gmail.com
+
 </p>
 
 <img width="1024" height="381" alt="banner" src="https://github.com/user-attachments/assets/8ed1384b-0455-4207-b099-90afdbf59cc2" />
