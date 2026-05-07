@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Shamim Hasan</h1>
+
 <h3 align="center">
-I'm a  (MERN stack) Front-End Developer from Rangpur, Bangladesh. 
+I'm a (MERN stack) Front-End Developer from Rangpur, Bangladesh. 
 I build full-stack web applications using Next.js, Tailwind, Ant Design, Next UI, BetterAuth, MongoDB, Express and Node.js, 
 with a focus on clean, efficient code and user-friendly experiences.
 </h3>
 
 <p align="center">
 📍 Rangpur, Bangladesh &nbsp; | &nbsp; mdshamimhasan791@gmail.com
-
 </p>
 
 <img width="1024" height="381" alt="banner" src="https://github.com/user-attachments/assets/8ed1384b-0455-4207-b099-90afdbf59cc2" />
@@ -26,37 +26,47 @@ with a focus on clean, efficient code and user-friendly experiences.
 
 <div align="center">
   <h3>Languages and Tools:</h3>
+
   <table border="0">
     <tr>
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
       </td>
     </tr>
+
     <tr>
       <td align="center" width="90">
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
       </td>
+
       <td align="center" width="90">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
       </td>
@@ -69,12 +79,23 @@ with a focus on clean, efficient code and user-friendly experiences.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+  />
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight&cache_seconds=1800" 
+  />
+
   <br/>
-  <img src="https://streak-stats.demolab.com?user=shamim-hasan259&theme=tokyonight" />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=shamim-hasan259&theme=tokyonight" 
+  />
 </p>
+
 ---
 
 <div align="center">
@@ -83,7 +104,7 @@ with a focus on clean, efficient code and user-friendly experiences.
   <a href="https://facebook.com/md.shamim.hasan.457240">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  
+
   <a href="https://twitter.com/shmaim-hasan259">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -96,7 +117,7 @@ with a focus on clean, efficient code and user-friendly experiences.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:your@email.com">
+  <a href="mailto:mdshamimhasan791@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
