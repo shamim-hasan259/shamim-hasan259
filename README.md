@@ -1,9 +1,9 @@
+```md
 <h1 align="center">Hi 👋, I'm Md Shamim Hasan</h1>
 
 <h3 align="center">
-I'm a (MERN stack) Front-End Developer from Rangpur, Bangladesh. 
-I build full-stack web applications using Next.js, Tailwind, Ant Design, Next UI, BetterAuth, MongoDB, Express and Node.js, 
-with a focus on clean, efficient code and user-friendly experiences.
+I'm a MERN Stack Front-End Developer from Rangpur, Bangladesh.
+I build full-stack web applications using Next.js, Tailwind CSS, Ant Design, Next UI, BetterAuth, MongoDB, Express.js, and Node.js, with a focus on clean, efficient code and user-friendly experiences.
 </h3>
 
 <p align="center">
@@ -17,61 +17,63 @@ with a focus on clean, efficient code and user-friendly experiences.
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Full Stack Web Development projects**
-- 🌱 I’m exploring **Next.js and Backend Architecture deeply**
-- 💡 I love building **real-world problem solving applications**
-- 🔐 Currently learning **Authentication & Security system**
+- 🌱 I’m exploring **Next.js and Backend Architecture** deeply
+- 💡 I love building **real-world problem-solving applications**
+- 🔐 Currently learning **Authentication & Security systems**
 - 🎯 Goal: Become a **professional software developer**
 
 ---
 
 <div align="center">
-  <h3>Languages and Tools:</h3>
 
-  <table border="0">
-    <tr>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-      </td>
+<h3>Languages and Tools:</h3>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-      </td>
+<table border="0">
+<tr>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-      </td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-      </td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-      </td>
-    </tr>
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</td>
 
-    <tr>
-      <td align="center" width="90">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
-      </td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+</td>
+</tr>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-      </td>
+<tr>
+<td align="center" width="90">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-      </td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-      </td>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+</td>
 
-      <td align="center" width="90">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-      </td>
-    </tr>
-  </table>
+<td align="center" width="90">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</td>
+
+<td align="center" width="90">
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -79,46 +81,42 @@ with a focus on clean, efficient code and user-friendly experiences.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight&cache_seconds=1800" 
-  />
+<img src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight" />
 
-  <br/>
+<br/>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight&cache_seconds=1800" 
-  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight" />
 
-  <br/>
+<br/>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=shamim-hasan259&theme=tokyonight" 
-  />
+<img src="https://streak-stats.demolab.com?user=shamim-hasan259&theme=tokyonight" />
 </p>
 
 ---
 
 <div align="center">
-  <h3>Connect with me:</h3>
 
-  <a href="https://facebook.com/md.shamim.hasan.457240">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+<h3>Connect with me:</h3>
 
-  <a href="https://twitter.com/shmaim-hasan259">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+<a href="https://facebook.com/md.shamim.hasan.457240">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 
-  <a href="https://instagram.com/mdshamimhasan791">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<a href="https://twitter.com/shmaim-hasan259">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
 
-  <a href="https://www.linkedin.com/in/md-shamim-hasan-48133b243">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://instagram.com/mdshamimhasan791">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-  <a href="mailto:mdshamimhasan791@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://www.linkedin.com/in/md-shamim-hasan-48133b243">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mdshamimhasan791@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
+```
