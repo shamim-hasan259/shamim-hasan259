@@ -18,28 +18,12 @@
 
 ---
 
-## 🚀 Professional Overview
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>About Me</h3>
-      <ul>
-        <li>Specialized in creating production-ready full-stack ecosystems focusing on optimum UX.</li>
-        <li>Deep-diving into advanced Next.js enterprise architectures (ISR, SSR, and App Routing).</li>
-        <li>Passionate about solving real-world complex problems and developing secure SaaS products.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Engineering Core</h3>
-      <ul>
-        <li><b>State Management:</b> Redux Toolkit, Context API</li>
-        <li><b>Authentication:</b> Session Systems, Hybrid JWT, BetterAuth</li>
-        <li><b>Database Optimization:</b> MongoDB Aggregation Pipelines</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## About Me
+- **Full-Stack Engineering:** Actively architecting and deploying end-to-end web ecosystems with a sharp focus on optimal system design and user experience.
+- **Advanced Architecture:** Deep-diving into Next.js enterprise patterns (App Router, SSR, ISR) and robust asynchronous backend frameworks.
+- **Problem Solving:** Passionate about translating complex, real-world challenges into high-performance, scalable, and fully digital products.
+- **Security & Auth:** Specially focused on mastering modern authentication protocols, session lifecycles, and solid web security systems.
+- **Career Vision:** Constantly evolving with industry trends to bring immediate, high-impact value as a professional Software Engineer.
 
 ---
 
