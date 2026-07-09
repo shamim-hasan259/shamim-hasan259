@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Next.js+%2F+Node.js+Specialist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3800&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Engineer;Next.js+%2F+Node.js+Expert;AI-Driven+Software+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">Crafting high-performance, pixel-perfect frontend and scalable backend solutions with clean code.</h3>
+<h3 align="center">Engineering high-performance, responsive web architectures with an analytical approach to clean code.</h3>
 
 <p align="center">
   📍 Thakurgaon, Bangladesh &nbsp;&middot;&nbsp; ✉️ mdshamimhasan791@gmail.com
@@ -18,26 +18,24 @@
 
 ---
 
-## 💻 Profile Overview
+## 🚀 Professional Overview
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>About Me</h3>
       <ul>
-        <li>Building enterprise-grade web applications focusing on exceptional UX.</li>
-        <li>Deeply focusing on Advanced Next.js Features and Monolithic/Microservices Backend Architecture.</li>
-        <li>Developing real-world SaaS products and secure digital ecosystems.</li>
-        <li>Mastering advanced Authentication mechanisms, Role-Based Access Control, and API Security.</li>
+        <li>Specialized in creating production-ready full-stack ecosystems focusing on optimum UX.</li>
+        <li>Deep-diving into advanced Next.js enterprise architectures (ISR, SSR, and App Routing).</li>
+        <li>Passionate about solving real-world complex problems and developing secure SaaS products.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Current Focus</h3>
+      <h3>Engineering Core</h3>
       <ul>
-        <li><b>Frameworks:</b> Next.js (App Router, ISR, SSR)</li>
-        <li><b>State & Form:</b> TanStack Query, Redux Toolkit</li>
-        <li><b>Security:</b> JWT & Advanced Session Management</li>
-        <li><b>Cloud & Database:</b> Aggregation Pipelines in MongoDB</li>
+        <li><b>State Management:</b> Redux Toolkit, Context API</li>
+        <li><b>Authentication:</b> Session Systems, Hybrid JWT, BetterAuth</li>
+        <li><b>Database Optimization:</b> MongoDB Aggregation Pipelines</li>
       </ul>
     </td>
   </tr>
@@ -45,11 +43,11 @@
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+## 🛠️ Technical Ecosystem & Tools
 
 <table>
   <tr>
-    <td align="left"><b>Frontend</b></td>
+    <td align="left" width="150"><b>Frontend</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -70,7 +68,7 @@
     </td>
   </tr>
   <tr>
-    <td align="left"><b>Auth & DevOps</b></td>
+    <td align="left"><b>Auth & Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Better_Auth-111111?style=flat-square" />
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white" />
@@ -79,37 +77,31 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
     </td>
   </tr>
+  <tr>
+    <td align="left"><b>AI & Productivity</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=google-gemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=flat-square&logo=github-copilot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Grok_AI-000000?style=flat-square" />
+      <img src="https://img.shields.io/badge/Cloud_Code-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+    </td>
+  </tr>
 </table>
 
 ---
 
-## 🏆 Featured Case Studies
+## 🏆 Featured Case Studies & Production Deployments
 
-### 01. RecipeHub — Full-Stack Recipe SaaS
-> A feature-rich recipe ecosystem utilizing role-based access control and commercial payment infrastructure.
-
-*   **Engineering Highlights:** Implemented server-side pagination, advanced lookup aggregates for multi-filtering, likes, favorites, and user reporting mechanisms.
-*   **Security & Payment:** Secured system with dual JWT/BetterAuth token cycles and processed monetary conversions safely via Stripe API.
-*   **Tech Stack:** Next.js, Node.js, Express.js, MongoDB, Better Auth, Stripe, Tailwind CSS
-*   **Project Links:** `[🔗 Live]`(https://recipe-hub-client-iota.vercel.app) &middot; `[🛠️ Client Repo]`(https://github.com/shamim-hasan259/recipe-hub-client.git) &middot; `[⚙️ Server Repo]`(https://github.com/shamim-hasan259/recipe-hub-server.gil)
-
-### 02. Drivefleet — Enterprise Car Rental Solution
-> A modern dynamic booking single page application engineered to automate global vehicle deployment and user scheduling.
-
-*   **Engineering Highlights:** Re-architected data transmission lines yielding a **25% speed enhancement in client-side metrics**. Engineered cross-browser schema alignment and dynamic UI routing.
-*   **Tech Stack:** Next.js, Node.js, Express, MongoDB, BetterAuth, JWT, Tailwind CSS
-*   **Project Links:** `[🔗 Live]`(https://drivefleet-client-azure.vercel.app/) &middot; `[🛠️ Client Repo]`(https://github.com/shamim-hasan259/drivefleet-client.git) &middot; `[⚙️ Server Repo]`(https://github.com/shamim-hasan259/drivefeet-server.git)
-
-### 03. Destination Booking — Specialized Travel Architecture
-> High-performance portal built to unify destination indexing, geographic location lookups, and direct spot reservations.
-
-*   **Engineering Highlights:** Leveraged structural route components to isolate server interactions. Handles state transitions gracefully over rapid multi-data fetches.
-*   **Tech Stack:** React.js, Next.js, Node.js, Express, MongoDB, JWT, BetterAuth, Tailwind CSS
-*   **Project Links:** `[🔗 Live]`(https://wanderlust-client-six.vercel.app/) &middot; `[🛠️ Client Repo]`(https://github.com/shamim-hasan259/wanderlust-client.git) &middot; `[⚙️ Server Repo]`(https://github.com/shamim-hasan259/drivefeet-server.git)
+| Project Details | Core Engineering Deliverables | Built With | Source & Live Actions |
+| :--- | :--- | :--- | :--- |
+| **RecipeHub**<br><sub>Recipe Sharing Platform</sub> | <ul><li>Role-based dynamic dashboards with full CRUD flow.</li><li>Secure monetary checkouts via **Stripe API integration**.</li><li>Advanced server-side pagination, user report triggers, and nested filtering pipelines.</li></ul> | Next.js, Node.js, Express, MongoDB, Better Auth, JWT, Stripe | [🔗 Live Demo](https://recipe-hub-client-iota.vercel.app)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/recipe-hub-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/recipe-hub-server.gil) |
+| **Drivefleet**<br><sub>Enterprise Rental SaaS</sub> | <ul><li>Designed automated workflows optimizing vehicle scheduling maps.</li><li>**Boosted client-side page load velocity by 25%** via route isolation.</li><li>Implemented ironclad session security with hybrid JWT/BetterAuth token cycling.</li></ul> | Next.js, Tailwind CSS, BetterAuth, Node.js, Express, MongoDB, JWT | [🔗 Live Demo](https://drivefleet-client-azure.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/drivefleet-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
+| **Destination Booking**<br><sub>Travel Platform</sub> | <ul><li>Engineered high-concurrency architecture to unify geographic spot indexing.</li><li>Gracefully structures real-time data flow with MongoDB for fast fetches.</li><li>Cross-browser responsive views tailored perfectly for mobile, tab, and desktop.</li></ul> | React.js, Next.js, Node.js, Express, MongoDB, JWT, BetterAuth, Tailwind | [🔗 Live Demo](https://wanderlust-client-six.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/wanderlust-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 
 ---
 
-## 📊 Analytics & Metrics
+## 📊 Analytics & Performance Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
@@ -122,7 +114,7 @@
 
 ---
 
-## 🌐 Open to Collaborations
+## 🌐 Open for Global Collaborations
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shamim-hasan-48133b243" target="_blank">
