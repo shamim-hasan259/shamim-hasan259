@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/8ed1384b-0455-4207-b099-90afdbf59cc2" />
+</p>
 <h1 align="center">Hi, I'm Md Shamim Hasan</h1>
 
 <p align="center">
@@ -10,10 +13,6 @@
 
 <p align="center">
   📍 Thakurgaon, Bangladesh &nbsp;&middot;&nbsp; ✉️ mdshamimhasan791@gmail.com &nbsp;&middot;&nbsp; 📞 +8801765102417
-</p>
-
-<p align="center">
-  <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/8ed1384b-0455-4207-b099-90afdbf59cc2" />
 </p>
 
 ---
