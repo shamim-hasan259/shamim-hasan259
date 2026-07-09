@@ -84,21 +84,23 @@
 | **Destination Booking**<br><sub>Travel Platform</sub> | <ul><li>Engineered high-concurrency architecture to unify geographic spot indexing.</li><li>Gracefully structures real-time data flow with MongoDB for fast fetches.</li><li>Cross-browser responsive views tailored perfectly for mobile, tab, and desktop.</li></ul> | React.js, Next.js, Node.js, Express, MongoDB, JWT, BetterAuth, Tailwind | [🔗 Live Demo](https://wanderlust-client-six.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/wanderlust-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 
 ---
-
+---
 
 ## 📊 Analytics & Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight&count_private=true" alt="Shamim's GitHub Stats" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=shamim-hasan259&show_icons=true&theme=tokyonight&count_private=true" alt="Shamim's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=shamim-hasan259&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shamim-hasan259&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
 
 ---
 
