@@ -19,17 +19,19 @@
 ---
 
 ## About Me
-- **Core Engineering:** Developing frontend and backend solutions with a strong commitment to clean code and efficient problem-solving.
-- **State & Architecture:** Actively transitioning into advanced state management and structured backend development to build scalable applications.
-- **Continuous Learning:** Constantly expanding my technical horizon by adopting type-safe development practices and modern security frameworks.
+- **Software Engineering Aspire:** A dedicated developer focused on architecting efficient, maintainable, and clean codebases while transitioning towards full-scale system design.
+- **State & Type Systems:** Actively leveling up application predictability and scalability by integrating robust type safety and optimized global state management.
+- **Backend & Logic Execution:** Deeply engaged in designing structured, high-performance RESTful architectures and handling secure database lifecycles.
+- **Vision & Growth:** Driven by a long-term professional goal to evolve into a high-impact Software Engineer, dedicated to solving complex technical challenges and building scalable production systems.
 
 ---
 
 ## 🚀 Current Activities
-- 🔭 **Current Work:** Enhancing my core web development projects with optimal performance and dynamic features.
-- 🌱 **Learning & Exploring:** Deep-diving into **TypeScript** for type-safe applications and **Redux** for robust state management.
-- 💡 **Backend Focus:** Strengthening my knowledge in **Advanced Backend Architecture** and RESTful API optimization.
-- 🔐 **Security:** Mastering user authentication systems, session flows, and data security protocols.
+- 🔭 **Current Focus:** Enhancing existing web systems with performance optimization and rigorous code refactoring.
+- 🌱 **Ecosystem Deep-Dive:** Mastering **TypeScript** for solid compile-time type checking and **Redux Toolkit** for predictable state lifecycles.
+- 💡 **Backend Architecture:** Strengthening expertise in **Advanced Backend Engineering**, database performance tuning, and API efficiency.
+- 🔐 **Security Implementation:** Exploring ironclad user authentication strategies, authorization levels, and secure token management.
+- 🎯 **Ultimate Goal:** Continually expanding engineering paradigms to step into industry-standard roles as a professional Software Engineer.
 
 ---
 
