@@ -9,7 +9,7 @@
 <h3 align="center">Engineering high-performance, responsive web architectures with an analytical approach to clean code.</h3>
 
 <p align="center">
-  📍 Thakurgaon, Bangladesh &nbsp;&middot;&nbsp; ✉️ mdshamimhasan791@gmail.com
+  📍 Thakurgaon, Bangladesh &nbsp;&middot;&nbsp; ✉️ mdshamimhasan791@gmail.com &nbsp;&middot;&nbsp; 📞 +8801765102417
 </p>
 
 <p align="center">
@@ -24,6 +24,14 @@
 - **Problem Solving:** Passionate about translating complex, real-world challenges into high-performance, scalable, and fully digital products.
 - **Security & Auth:** Specially focused on mastering modern authentication protocols, session lifecycles, and solid web security systems.
 - **Career Vision:** Constantly evolving with industry trends to bring immediate, high-impact value as a professional Software Engineer.
+
+---
+
+## 🚀 Current Activities
+- 🔭 **Current Work:** Architecting enterprise-grade MERN Stack & Next.js applications.
+- 🌱 **Exploring:** Advanced Next.js Features (App Router, ISR, Server Actions) and Backend Scale Architecture.
+- 💡 **Core Focus:** Building real-world problem-solving SaaS platforms and multi-vendor marketplaces.
+- 🔐 **Security:** Deeply learning modern Authentication mechanisms, Role-Based Access Control (RBAC), and API Security.
 
 ---
 
@@ -83,7 +91,6 @@
 | **Drivefleet**<br><sub>Enterprise Rental SaaS</sub> | <ul><li>Designed automated workflows optimizing vehicle scheduling maps.</li><li>**Boosted client-side page load velocity by 25%** via route isolation.</li><li>Implemented ironclad session security with hybrid JWT/BetterAuth token cycling.</li></ul> | Next.js, Tailwind CSS, BetterAuth, Node.js, Express, MongoDB, JWT | [🔗 Live Demo](https://drivefleet-client-azure.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/drivefleet-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 | **Destination Booking**<br><sub>Travel Platform</sub> | <ul><li>Engineered high-concurrency architecture to unify geographic spot indexing.</li><li>Gracefully structures real-time data flow with MongoDB for fast fetches.</li><li>Cross-browser responsive views tailored perfectly for mobile, tab, and desktop.</li></ul> | React.js, Next.js, Node.js, Express, MongoDB, JWT, BetterAuth, Tailwind | [🔗 Live Demo](https://wanderlust-client-six.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/wanderlust-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 
-
 ---
 
 ## 📊 Analytics & Performance Metrics
@@ -102,23 +109,14 @@
 
 ---
 
-
-
-
-## 🌐 Open for Global Collaborations
+## 🌐 Professional Network & Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-shamim-hasan-48133b243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/md.shamim.hasan.457240" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
   <a href="https://twitter.com/shmaim-hasan259" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/mdshamimhasan791" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mdshamimhasan791@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
