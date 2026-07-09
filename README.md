@@ -83,7 +83,7 @@
 | **Drivefleet**<br><sub>Enterprise Rental SaaS</sub> | <ul><li>Designed automated workflows optimizing vehicle scheduling maps.</li><li>**Boosted client-side page load velocity by 25%** via route isolation.</li><li>Implemented ironclad session security with hybrid JWT/BetterAuth token cycling.</li></ul> | Next.js, Tailwind CSS, BetterAuth, Node.js, Express, MongoDB, JWT | [🔗 Live Demo](https://drivefleet-client-azure.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/drivefleet-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 | **Destination Booking**<br><sub>Travel Platform</sub> | <ul><li>Engineered high-concurrency architecture to unify geographic spot indexing.</li><li>Gracefully structures real-time data flow with MongoDB for fast fetches.</li><li>Cross-browser responsive views tailored perfectly for mobile, tab, and desktop.</li></ul> | React.js, Next.js, Node.js, Express, MongoDB, JWT, BetterAuth, Tailwind | [🔗 Live Demo](https://wanderlust-client-six.vercel.app/)<br><br>[🛠️ Client Repo](https://github.com/shamim-hasan259/wanderlust-client.git)<br><br>[⚙️ Server Repo](https://github.com/shamim-hasan259/drivefeet-server.git) |
 
----
+
 ---
 
 ## 📊 Analytics & Performance Metrics
