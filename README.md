@@ -101,9 +101,6 @@
 
 ---
 
-## 📊 Analytics & Performance Metrics
-
----
 
 ## 📊 Analytics & Performance Metrics
 
