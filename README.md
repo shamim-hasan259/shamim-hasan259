@@ -19,19 +19,17 @@
 ---
 
 ## About Me
-- **Full-Stack Engineering:** Actively architecting and deploying end-to-end web ecosystems with a sharp focus on optimal system design and user experience.
-- **Advanced Architecture:** Deep-diving into Next.js enterprise patterns (App Router, SSR, ISR) and robust asynchronous backend frameworks.
-- **Problem Solving:** Passionate about translating complex, real-world challenges into high-performance, scalable, and fully digital products.
-- **Security & Auth:** Specially focused on mastering modern authentication protocols, session lifecycles, and solid web security systems.
-- **Career Vision:** Constantly evolving with industry trends to bring immediate, high-impact value as a professional Software Engineer.
+- **Core Engineering:** Developing frontend and backend solutions with a strong commitment to clean code and efficient problem-solving.
+- **State & Architecture:** Actively transitioning into advanced state management and structured backend development to build scalable applications.
+- **Continuous Learning:** Constantly expanding my technical horizon by adopting type-safe development practices and modern security frameworks.
 
 ---
 
 ## 🚀 Current Activities
-- 🔭 **Current Work:** Architecting enterprise-grade MERN Stack & Next.js applications.
-- 🌱 **Exploring:** Advanced Next.js Features (App Router, ISR, Server Actions) and Backend Scale Architecture.
-- 💡 **Core Focus:** Building real-world problem-solving SaaS platforms and multi-vendor marketplaces.
-- 🔐 **Security:** Deeply learning modern Authentication mechanisms, Role-Based Access Control (RBAC), and API Security.
+- 🔭 **Current Work:** Enhancing my core web development projects with optimal performance and dynamic features.
+- 🌱 **Learning & Exploring:** Deep-diving into **TypeScript** for type-safe applications and **Redux** for robust state management.
+- 💡 **Backend Focus:** Strengthening my knowledge in **Advanced Backend Architecture** and RESTful API optimization.
+- 🔐 **Security:** Mastering user authentication systems, session flows, and data security protocols.
 
 ---
 
